@@ -43,8 +43,8 @@ You can click the Preview link to take a look at your changes.
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br>
-<div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+<!-- <div align=center>
+	<p>🎨 SNS & Portfolio 🎨</p> -->
 <!-- </div>
 <div align=center>
 	<a href="https://yermi.co.kr">
