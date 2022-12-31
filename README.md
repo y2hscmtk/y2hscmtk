@@ -1,3 +1,4 @@
+<h1 align="center"> KangChoi / 최 강 </h1>
 
 <!---
 y2hscmtk/y2hscmtk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
