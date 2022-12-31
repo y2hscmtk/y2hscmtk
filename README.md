@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
-</div>
+<!-- </div>
 <div align=center>
 	<a href="https://yermi.co.kr">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
@@ -60,8 +60,8 @@ You can click the Preview link to take a look at your changes.
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 	<br>
-</div>
-<div align=center>
+</div> -->
+<!-- <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kycasdzxc&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=kycasdzxc&show_icons=true">
@@ -72,4 +72,4 @@ You can click the Preview link to take a look at your changes.
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kycasdzxc)](https://solved.ac/kycasdzxc)
-</div>
+</div> -->
