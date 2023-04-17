@@ -73,6 +73,10 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ![Taehyun's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=kycasdzxc) -->
 
+	
+![](https://github.com/y2hscmtk/github-stats-transparent/blob/output/generated/overview.svg)
+![](https://github.com/y2hscmtk/github-stats-transparent/blob/output/generated/languages.svg)
+	
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
