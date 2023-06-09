@@ -1,4 +1,4 @@
-<h1 align="center"> KangChoi / 최 강 </h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kang Choi / 최 강&fontSize=90&fontAlignY=40&desc=y2hscmtk&descAlign=70)
 
 <!---
 y2hscmtk/y2hscmtk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
