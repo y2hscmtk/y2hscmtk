@@ -39,11 +39,6 @@ You can click the Preview link to take a look at your changes.
 	<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" /> -->
 </div>
 <br>
-<div align=center>
-	<p>🛠 Tools 🛠</p>
-</div>
-
-<br>
 <!-- <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p> -->
 <!-- </div>
