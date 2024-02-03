@@ -4,7 +4,7 @@
 **Techs that I've used at least once**
 <p align="left">
    [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,kotlin,swift,js,html,css,react,raspberrypi,fastapi,django,spring,firebase)](https://skillicons.dev)
-</p>
+</a>
 
 <h3 align="left">Connect with me</h3>
 
