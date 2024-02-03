@@ -7,7 +7,9 @@
 <h3> Hi there, I'm Kang Choi / 최 강 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23"> </h3>
 I am majoring in <strong>Computer Science</strong> and currently pursuing my Bachelor's degree at <strong>Hansung University</strong>. <br>
 I am exploring and studying a variety of technologies, with a particular focus on developing Android and iOS applications and mastering backend technologies based on Spring.
-My goal is to become a full-stack application developer, dedicated to creating applications that benefit many people.
+My goal is to become a full-stack application developer, dedicated to creating applications that benefit many people. <br>
+
+![snake gif](https://github.com/y2hscmtk/y2hscmtk/blob/output/github-contribution-grid-snake.svg)
 
 
 <h2>Tech Stack</h2>
