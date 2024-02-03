@@ -4,10 +4,11 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=y2hscmtk)](https://solved.ac/y2hscmtk) 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fy2hscmtk&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<h3> Hi there, I'm Kang Choi/최 강 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h3><br>
-I am majoring in **Computer Science** and currently pursuing my Bachelor's degree at **Hansung University**. <br>
-I am exploring and studying a variety of technologies, with a particular focus on developing Android and iOS applications and mastering backend technologies based on Spring. <br>
-My goal is to become a full-stack application developer, dedicated to creating applications that benefit many people
+<h3> Hi there, I'm Kang Choi / 최 강 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="23"> </h3>
+I am majoring in <strong>Computer Science</strong> and currently pursuing my Bachelor's degree at <strong>Hansung University</strong>. <br>
+I am exploring and studying a variety of technologies, with a particular focus on developing Android and iOS applications and mastering backend technologies based on Spring.
+My goal is to become a full-stack application developer, dedicated to creating applications that benefit many people.
+
 
 <h2>Tech Stack</h2>
 <p align="left">
