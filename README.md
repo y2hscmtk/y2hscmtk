@@ -3,15 +3,10 @@
 <h3 align="left">Tech Stack</h3>
 **Techs that I've used at least once**
 <p align="left">
-   [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,java,kotlin,swift,js,html,css,react,raspberrypi,fastapi,django,spring,firebase)](https://skillicons.dev)
-   [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-</a>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+   <a>
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,kotlin,swift,js,html,css,react,raspberrypi,fastapi,django,spring,firebase" />
   </a>
-</p>
+</a>
 
 <h3 align="left">Connect with me</h3>
 
