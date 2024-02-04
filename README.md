@@ -8,11 +8,12 @@
 I am majoring in <strong>Computer Science</strong> and currently pursuing my Bachelor's degree at <strong>Hansung University</strong>. <br>
 I am exploring and studying a variety of technologies, with a particular focus on developing Android and iOS applications and mastering backend technologies based on Spring.
 My goal is to become a full-stack application developer, dedicated to creating applications that benefit many people.
-
-<img src="https://raw.githubusercontent.com/y2hscmtk/y2hscmtk/output/snake.svg" alt="Snake animation" />
+<p align="left">
+   <img src="https://raw.githubusercontent.com/y2hscmtk/y2hscmtk/output/snake.svg" alt="Snake animation" />
+</p>
 <h2>Tech Stack</h2>
 <p align="left">
    <a> 
     <img src="https://skillicons.dev/icons?i=py,c,cpp,java,kotlin,swift,js,html,css,react,flask,fastapi,django,spring,raspberrypi,tensorflow,firebase" />
    </a>
-</a>
+</p>
