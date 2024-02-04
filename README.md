@@ -10,7 +10,6 @@ I am exploring and studying a variety of technologies, with a particular focus o
 My goal is to become a full-stack application developer, dedicated to creating applications that benefit many people.
 
 <img src="https://raw.githubusercontent.com/y2hscmtk/y2hscmtk/output/snake.svg" alt="Snake animation" />
-###
 <h2>Tech Stack</h2>
 <p align="left">
    <a> 
