@@ -14,6 +14,6 @@ My goal is to become a full-stack application developer, dedicated to creating a
 <h2>Tech Stack</h2>
 <p align="left">
    <a> 
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,kotlin,swift,js,html,css,react,flask,fastapi,django,spring,raspberrypi,tensorflow,firebase" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,kotlin,swift,js,html,css,react,flask,fastapi,django,spring,raspberrypi,tensorflow,firebase,mysql,aws" />
    </a>
 </p>
