@@ -7,9 +7,15 @@
 I majored in <strong>Computer Science</strong> at <strong>Hansung University</strong> and am currently working as a <strong>full-stack web developer</strong> in the field of <strong>automotive cybersecurity</strong>. <br>
 I have a strong interest in exploring diverse technologies and continuously learning new skills. <br>
 My goal is to contribute to building safer and more efficient systems through growth as a developer.
-<p align="left">
+<!-- <p align="left">
    <img src="https://raw.githubusercontent.com/y2hscmtk/y2hscmtk/output/snake.svg" alt="Snake animation" />
-</p>
+</p> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+
 <h2>Tech Stack</h2>
 <p align="left">
    <a> 
